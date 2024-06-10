@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Alejandor Morcillo</h1>
-<h3 align="center">I am a fullstack developer, I live in Colombia </h3>
+<h3 align="center">I am a fullstack developer, i live in Colombia </h3>
 
 
 <h3 align="left">Connect with me:</h3>
