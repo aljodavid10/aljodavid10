@@ -1,32 +1,12 @@
-# 👋 ¡Hola! Soy [David Alejandro Morcillo Benavidez]
+<h1 align="center">Hi 👋, I'm David Alejandor Morcillo</h1>
+<h3 align="center">I am a fullstack developer, I live in Colombia</h3>
 
-## 🌟 Desarrollador Full Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="30" width="40" /></a>
+</p>
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack apasionado por fortalecer mis conocimientos y aprender nuevas metodologías de trabajo. Aquí encontrarás proyectos en los que he trabajado y colaborado utilizando diversas tecnologías y herramientas.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: JavaScript, Java, C#
-- **Bases de Datos**: OracleSQL, PostgreSQL
-- **Backend**: Node.js, Express, Sequelize
-- **Frontend**: React.js, Redux, HTML, CSS
-- **Otras Herramientas**: Git, GitHub
-
-## 💼 Proyectos Destacados
-
-### [Poleritas](https://github.com/aljodavid10/e-commerce-Poleritas)
-Un e-commerce de camisetas. Este proyecto es una aplicación completa desarrollada con las siguientes tecnologías:
-
-- **Backend**: JavaScript, Node.js, Express, PostgreSQL, Sequelize
-- **Frontend**: CSS, React.js, Node.js
-
-## 📚 Aprendizaje Continuo
-
-Me encanta fortalecer mis conocimientos y siempre estoy en busca de nuevas metodologías y tecnologías para mejorar mis habilidades. Creo que la clave para el crecimiento personal y profesional está en el aprendizaje continuo y la práctica constante.
-
-## 📫 Conéctate Conmigo
-
-- LinkedIn: [](https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/)
-- Email: aljodavid100@gmail.com
-
-¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y contactar conmigo para cualquier colaboración o pregunta.
