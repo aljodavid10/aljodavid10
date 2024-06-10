@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<b>LinkedIn:</b> <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="20" width="30" /> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aljodavid100@gmail.com" height="10" width="20" /> david-morcillo-benavidez-aljo1996 </a>
+<b>LinkedIn:</b> <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="20" width="30" /> david-morcillo-benavidez-aljo1996 </a>
 <br>
 <b>Email:</b> aljodavid100@gmail.com
 </p>
