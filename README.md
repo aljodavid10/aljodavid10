@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Alejandor Morcillo</h1>
-<h3 align="center">I am a fullstack developer, I live in Colombia</h3>
+<h3 align="center">I am a fullstack developer, I live in Colombia </h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<b><a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="10" width="20" />:</b> david-morcillo-benavidez-aljo1996 </a>
+<b><a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="20" width="30" />:</b> david-morcillo-benavidez-aljo1996 </a>
 <br>
 <b>Email:</b> aljodavid100@gmail.com
 </p>
