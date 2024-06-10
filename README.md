@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Alejandor Morcillo</h1>
 <h3 align="center">I am a fullstack developer</h3>
-<h2 align="center">I live in Colombia</h2>
+<h4 align="center">I live in Colombia</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
