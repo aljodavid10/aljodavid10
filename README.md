@@ -3,8 +3,8 @@
 <p>Over the years, I have strengthened my knowledge in full-stack web development, improving my technical skills and soft skills to reach the goal in each of the projects I have developed.</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<b>Email:</b> aljodavid100@gmail.com
+<p align="left">]
+<b>Email:</b> [Email](aljodavid100@gmail.com)
 <br>
 <b><a href="https://linkedin.com/in/https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-morcillo-benavidez-aljo1996/" height="20" width="30" /></b>: david-morcillo-benavidez-aljo1996 </a>
 </p>
